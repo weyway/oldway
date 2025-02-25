@@ -249,7 +249,7 @@ export const customImage: SocialImageOptions["imageStructure"] = (
         <p
           style={{
             color: cfg.theme.colors[colorScheme].dark,
-            fontSize: 44,
+            fontSize: 100,
             marginLeft: "8rem",
             marginRight: "8rem",
             lineClamp: 3,
