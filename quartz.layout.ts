@@ -4,29 +4,27 @@ import * as Component from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [
-  
-  Component.Spacer(),
-  Component.Search(),
-  Component.Darkmode(),
-    
-  ],
+  header: [],
   beforeBody: [],
   afterBody: [],
   left: [
     Component.PageTitle(),
+    Component.MobileOnly(Component.Spacer()),
+    Component.Search(),
     Component.Explorer({
     title: "Wayfinder",
     folderClickBehavior: "link",
   }),
-  Component.MobileOnly(Component.Spacer()),
+  Component.Darkmode(),
   ],
+  
   footer: Component.Footer({
     links: {
       "Beyond Love": "https://beyond-love.crd.co/",
       "Discord": "https://discord.gg/4p9fq6PJHf",
     },
   }),
+  
 }
 
 // components for pages that display a single page (e.g. a single note)
@@ -35,6 +33,7 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Spacer(),
     Component.Breadcrumbs(),
+
   ],
   body: [
     Component.Spacer(),
@@ -43,7 +42,6 @@ export const defaultContentPageLayout: PageLayout = {
     ],
 
   right: [
-    Component.Spacer(),
     Component.TagList(),
     Component.DesktopOnly(Component.TableOfContents()),
   ],

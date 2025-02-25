@@ -22,7 +22,7 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Playwrite IT Moderna",
+        header: "Bellota",
         body: "Comfortaa",
         code: "IBM Plex Mono",
       },
