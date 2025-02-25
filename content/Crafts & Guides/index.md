@@ -12,4 +12,6 @@ However, recurring events and relic weapons, will probably end up here.
 >Still, if you don't want to get ahead of yourself spoiler wise, there might be NPC names or locations that will be shared in these.
 >Relic guides will always be tagged with the expansion they belong to to help you avoid them if you so wish. 😊
 
+
+---
 # Contents & Tags
