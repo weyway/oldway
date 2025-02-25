@@ -3,9 +3,10 @@ icon: LiHome
 tags: 
 title: Weyway
 ---
-# Welcome!
+# Welcome! 
 
-While our FC discord contains a knowledge base for many different types of content, mostly video guides, some things are better presented in text, which allows you to go through it at your pace as you need it.
+
+While our FC discord contains a knowledge base for many different types of content,   mostly video guides, some things are better presented in text, which allows you to go through it at your pace as you need it.
 
 This is meant to be an way to browse between those guides from our FC discord that I felt were too long to share within a discord thread.
 This will hopefully make these long format guides more manageable.
@@ -20,8 +21,7 @@ Hope this is useful for you! ♥
 
 <p style="text-align: right;">W'eylyn</p>
 
+![[xd.png|250]] 
 
 PS: You can find links to the FC below if you'd like to find out more. 😊
- ![[xd.png|center]]
-
-[^1]: 
+  
