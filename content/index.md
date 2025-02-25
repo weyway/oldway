@@ -1,6 +1,7 @@
 ---
 icon: LiHome
-tags:
+tags: 
+title: Weyway
 ---
 # Welcome!
 
