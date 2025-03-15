@@ -368,3 +368,10 @@ ___
 ## Hiring Staff!! (Europe)
 
 ![[pll86-92.jpg]]
+
+___
+```
+Date: 15/03/2025
+Collected by: W'eylyn Mavourneen
+Collected from: Final Fantasy XIV Discord - Live Letter Translations
+```
