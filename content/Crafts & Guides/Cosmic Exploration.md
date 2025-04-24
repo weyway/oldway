@@ -4,6 +4,9 @@ tags:
   - Guide
   - Exploration
   - Cosmic
+  - DoL
+  - DoH
+  - Relic
 icon: LiAnvil
 title: Cosmic Exploration
 ---
