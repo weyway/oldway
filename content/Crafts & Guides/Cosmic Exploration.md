@@ -14,6 +14,9 @@ title: Cosmic Exploration
 
 ![[L4eqgiJYsSP3wQcTxV-VhzICOQ.png]]
 
+Cosmic Exploration Initiative is run by a diverse crew of volunteers, from Loporrits to Sharlayan academics. 
+
+Together, the team must construct a vessel for interplanetary travel, the facilities necessary to house and maintain such a vessel, and other machinery required for the exploration of unknown stars.
 # Where to start?
 
 Before anything else, i'd like to start with this disclaimer.
