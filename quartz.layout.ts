@@ -21,7 +21,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "Beyond Love": "https://beyond-love.crd.co/",
-      "Discord": "https://discord.gg/CmSB8xHUf2",
+      "Discord": "https://discord.gg/V4PAp3GgtA",
     },
   }),
   
