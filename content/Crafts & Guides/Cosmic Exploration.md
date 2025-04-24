@@ -145,22 +145,32 @@ The NPC name is **Godgyth** and you can find them at X:21.8 Y21.8.
 
 ## Macros
 While it´s definitely possible to come up with macros for these crafts, bear in mind that each mission has different requirements, with the crafts also having different quality targets and durabilities, making it hard to have a one size fits all macro for this content.
-As macros usually require two parts due to in-game limitations, trying to craft macros for every single mission from start to finish is not realistic and would not fit within the game's macro limits.
+
+As macros usually require two parts and sometimes even three, due to in-game limitations, trying to save macros for every single mission from start to finish is not realistic and would not fit within the game's macro page.
+
 Therefore, the best option when it comes to using macros for this content, is focusing on keeping the macros just for the specific **Class** of missions you're completing at the time, and replacing them as you progress.
+
 I will do my best to provide below specific macros for every single mission I've completed just as a starting base.
 
 >[!warning] Crafting stats
->These macros were made for myself, and I'm using the highest possible gear available at patch 7.2 fully pentamelded.
+>These macros were made for myself using the highest possible gear available at patch 7.21 fully pentamelded and a Job with specialization.
+>
 >The stats without any food buffs are: 
 >**Craftsmanship: 5408 (5428 with specialization)**
 >**Control: 5216 (5236 with specialization)** 
 >**CP: 630 (645 with specialization)**
 >
 >Your milleage may vary when following the below macros and it's highly recommended to use a tool like **Teamcraft** to do a simulation or even craft your own macros using your stats if these don't work.
+>
+>I will eventually get to test these with the same gear stats but on jobs without specialization and will adjust macros if they fail (The stat difference is very small so they should be okay!)
+
+
 
 ### Macro Spreadsheet
 To make it easier to filter through stuff and add new content quickly, you can find all the macros that I've recorded as I completed the missions as an **Alchemist**.
-Some of the crafted items are also part of missions for other jobs, however the important part is the craft requirements such as **Difficulty, Durability and Quality**.
+
+Some of the crafted items are also part of missions for other jobs and some share the same name in different classes, however the important part is the craft requirements such as **Difficulty, Durability and Quality** as those might differ between items with the same name.
+
 If you're able to find a comparable macro that was made for the same craft requirements as the one you're doing, you may use that and it will work.
 
 [Wey's Cosmic Insanity (Google Spreadsheets)](https://docs.google.com/spreadsheets/d/1g7dsB3hbRW4XW9OB8_f8g2q7fVHLa-mkhtdk08IOr0A/edit?usp=sharing)
