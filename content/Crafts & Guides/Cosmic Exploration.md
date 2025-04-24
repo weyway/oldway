@@ -2,8 +2,8 @@
 tags:
   - FFXIV
   - Guide
-  - Event
-  - Yo-kai
+  - Exploration
+  - Cosmic
 icon: LiAnvil
 title: Cosmic Exploration
 ---
