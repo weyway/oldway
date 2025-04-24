@@ -7,7 +7,7 @@ title: Weyway
 
 While our FC discord contains a knowledge base for many different types of content, mostly video guides, some things are better presented in text, which allows you to go through it at your pace as you need it.
 
-This is meant to be an way to browse between those guides from our FC discord that I felt were too long to share within a discord thread.
+This is meant to be a way to browse between those guides from our FC discord that I felt were too long to share within a discord thread.
 This will hopefully make these long format guides more manageable.
 
 This is essentially something I do for myself but the true spirit of it is sharing, and so I do it with love, for Beyond Love - and anyone that might end up wandering here. (Hi! 😻)
