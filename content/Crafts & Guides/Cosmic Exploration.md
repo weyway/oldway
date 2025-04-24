@@ -159,9 +159,9 @@ I will do my best to provide below specific macros for every single mission I've
 >These macros were made for myself using the highest possible gear available at patch 7.21 fully pentamelded and a Job with specialization.
 >
 >The stats without any food buffs are: 
->**Craftsmanship: 5408 (5428 with specialization)**
->**Control: 5216 (5236 with specialization)** 
->**CP: 630 (645 with specialization)**
+ >- **Craftsmanship: 5408 (5428 with specialization)**
+>- **Control: 5216 (5236 with specialization)** 
+>- **CP: 630 (645 with specialization)**
 >
 >Your milleage may vary when following the below macros and it's highly recommended to use a tool like **Teamcraft** to do a simulation or even craft your own macros using your stats if these don't work.
 >
