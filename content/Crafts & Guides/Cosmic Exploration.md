@@ -79,6 +79,7 @@ They will show up on the map and players can participate in two ways:
 	- To participate as a Mech pilot, you have to submit an application in your **Exotablet** once the timer is up, only five players will be selected at random from all the applicants. These applications require a **Pilot Application** that can be purchased with lunar credits, players that are not selected will receive a refund of their application token.
 - Ground Support
 	- Everyone else that is not piloting a Mech will still be able to participate as ground support. To do so, you can just check the map and go to where the mission is taking place, once you arrive click the **Join Event** button.
+	- Ground Supporters also receive a participation bonus that will increase the rewards you receive from your Stellar Missions for a while.
 
 ### Stellar Successes
 ![[btn3.png]]
@@ -104,6 +105,7 @@ Under **Cosmic Research** you will find the data that is gathered during the cou
 Each job will have a set of analytical tasks that can be completed.
 Once you have gathered enough data, the **Exotablet** will highlight this for you.
 This section is all related to the **Cosmic Tools**, which are your crafter and gatherer relic weapons for Dawntrail.
+As you complete relic weapons, you can complete additional ones making use of the 50% increased research rewards you receive after finishing the first one.
 
 ### Cosmic Class Tracker
 ![[btn6.png]]
@@ -139,6 +141,11 @@ The **Stellar Missions** will be your base way of getting stuff done in the Cosm
 The main menu for crafting will be the **Basic Missions**, here you will have access to different missions divided by Class, starting from **Class D Missions**.
 These have different DoH/DoL levels associated with them and can be repeated.
 They will award you with Cosmic Exploration currencies and score for that job's Cosmic Tracker.
+
+Under **Provisional Missions** you will find crafts that are limited to some condition (e.g. Current weather or a specific time).
+
+Lastly, under **Critical Missions** you will find the crafts that can only be performed during **Red Alert** events.
+It's recommended that you take part in these events and doing the crafts as many times as possible until the timer runs out as the rewards are significantly better than basic missions.
 ## Gear
 Just like any other crafting or gathering activity, you will need appropriate gear for the level of crafts you're trying to do.
 
