@@ -183,5 +183,7 @@ If you're able to find a comparable macro that was made for the same craft requi
 ---
 
 Date: 24/04/2025
+
 Collected by: W'eylyn Mavourneen
+
 Collected from: In-game support material, Square Enix Website
