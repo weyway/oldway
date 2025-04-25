@@ -174,9 +174,6 @@ I will do my best to provide below specific macros for every single mission I've
 >- **CP: 630 (645 with specialisation)**
 >
 >Your mileage may vary when following the below macros and it's highly recommended to use a tool like **Teamcraft** to do a simulation.
->
->I will eventually get to test these with the same gear stats but on jobs without specialisation and will adjust macros if they fail (The stat difference is very small so they should be okay!)
-
 
 
 ### Macro Spreadsheet
