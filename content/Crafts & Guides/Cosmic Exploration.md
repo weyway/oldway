@@ -149,9 +149,9 @@ It's recommended that you take part in these events and doing the crafts as many
 ## Gear
 Just like any other crafting or gathering activity, you will need appropriate gear for the level of crafts you're trying to do.
 
-While it will be smoother to get involved in this content with level 100 jobs with proper gear and materia, this content is available as early as level 10 and might be another tool to help you in your leveling.
+While it will be smoother to get involved in this content with level 100 jobs with proper gear and materia, this content is available as early as level 10 and might be another tool to help you in your levelling.
 
-There is a vendor within **Sinus Ardorum** that will allow you to purchase some very basic gear if you're leveling, however this gear will be the bare minimum to keep you going and crafts will be challenging.
+There is a vendor within **Sinus Ardorum** that will allow you to purchase some very basic gear if you're levelling, however this gear will be the bare minimum to keep you going and crafts will be challenging.
 
 The NPC name is **Godgyth** and you can find them at X:21.8 Y21.8.
 ![[Pasted image 20250423234943.png]]
@@ -166,21 +166,23 @@ Therefore, the best option when it comes to using macros for this content, is fo
 I will do my best to provide below specific macros for every single mission I've completed just as a starting base.
 
 >[!warning] Crafting stats
->These macros were made for myself using the highest possible gear available at patch 7.21 fully pentamelded and a Job with specialization.
+>These macros were made for myself using the highest possible gear available at patch 7.21 fully pentamelded, however they've been made to not require job specialisations.
 >
 >The stats without any food buffs are: 
- >- **Craftsmanship: 5408 (5428 with specialization)**
->- **Control: 5216 (5236 with specialization)** 
->- **CP: 630 (645 with specialization)**
+ >- **Craftsmanship: 5408 (5428 with specialisation)**
+>- **Control: 5216 (5236 with specialisation)** 
+>- **CP: 630 (645 with specialisation)**
 >
->Your milleage may vary when following the below macros and it's highly recommended to use a tool like **Teamcraft** to do a simulation or even craft your own macros using your stats if these don't work.
+>Your mileage may vary when following the below macros and it's highly recommended to use a tool like **Teamcraft** to do a simulation.
 >
->I will eventually get to test these with the same gear stats but on jobs without specialization and will adjust macros if they fail (The stat difference is very small so they should be okay!)
+>I will eventually get to test these with the same gear stats but on jobs without specialisation and will adjust macros if they fail (The stat difference is very small so they should be okay!)
 
 
 
 ### Macro Spreadsheet
 To make it easier to filter through stuff and add new content quickly, you can find all the macros that I've recorded as I completed the missions as an **Alchemist**.
+
+I'm adding new macros to the spreadsheet in connection with mission names, as such, the same crafts and macros might appear duplicated as they are required by different missions.
 
 Some of the crafted items are also part of missions for other jobs and some share the same name in different classes, however the important part is the craft requirements such as **Difficulty, Durability and Quality** as those might differ between items with the same name.
 
@@ -188,7 +190,9 @@ If you're able to find a comparable macro that was made for the same craft requi
 
 [Wey's Cosmic Insanity (Google Spreadsheets)](https://docs.google.com/spreadsheets/d/1g7dsB3hbRW4XW9OB8_f8g2q7fVHLa-mkhtdk08IOr0A/edit?usp=sharing)
 
-
+### Teamcraft
+I've added the same macros from the spreadsheet into Teamcraft as community macros which you can find here:
+[Teamcraft - Cosmic Exploration](https://ffxivteamcraft.com/rotation-folder/l750CrvgHjfr8F43bcXF)
 
 ---
 
