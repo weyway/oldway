@@ -177,11 +177,9 @@ I will do my best to provide below specific macros for every single mission I've
 
 
 ### Macro Spreadsheet
-To make it easier to filter through stuff and add new content quickly, you can find all the macros that I've recorded as I completed the missions as an **Alchemist**.
+To make it easier to filter through stuff and add new content quickly, you can find all the macros that I've recorded as I complete the missions. I'll keep adding the mission names  and different items as I start working on new jobs.
 
-I'm adding new macros to the spreadsheet in connection with mission names, as such, the same crafts and macros might appear duplicated as they are required by different missions.
-
-Some of the crafted items are also part of missions for other jobs and some share the same name in different classes, however the important part is the craft requirements such as **Difficulty, Durability and Quality** as those might differ between items with the same name.
+Some of the crafted items are also part of missions for other jobs and some share the same name in different mission classes, however the important part is the craft requirements such as **Difficulty, Durability and Quality** as those might differ between items with the same name.
 
 If you're able to find a comparable macro that was made for the same craft requirements as the one you're doing, you may use that and it will work.
 
