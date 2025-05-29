@@ -2,12 +2,13 @@
 title: "Social Media Preview Cards"
 ---
 
-A lot of social media platforms can display a rich preview for your website when sharing a link (most notably, a cover image, a title and a description). Quartz automatically handles most of this for you with reasonable defaults, but for more control, you can customize these by setting [[social images#Frontmatter Properties]].
-Quartz can also dynamically generate and use new cover images for every page to be used in link previews on social media for you. To get started with this, set `generateSocialImages: true` in `quartz.config.ts`.
+A lot of social media platforms can display a rich preview for your website when sharing a link (most notably, a cover image, a title and a description).
+
+Quartz can also dynamically generate and use new cover images for every page to be used in link previews on social media for you.
 
 ## Showcase
 
-After enabling `generateSocialImages` in `quartz.config.ts`, the social media link preview for [[authoring content | Authoring Content]] looks like this:
+After enabling the [[CustomOgImages]] emitter plugin, the social media link preview for [[authoring content | Authoring Content]] looks like this:
 
 | Light                               | Dark                               |
 | ----------------------------------- | ---------------------------------- |
@@ -273,129 +274,4 @@ export const customImage: SocialImageOptions["imageStructure"] = (
 }
 ```
 
-> [!example]- Advanced example
->
-> The following example includes a customized social image with a custom background and formatted date.
->
-> ```typescript title="custom-og.tsx"
-> export const og: SocialImageOptions["Component"] = (
->   cfg: GlobalConfiguration,
->   fileData: QuartzPluginData,
->   { colorScheme }: Options,
->   title: string,
->   description: string,
->   fonts: SatoriOptions["fonts"],
-> ) => {
->   let created: string | undefined
->   let reading: string | undefined
->   if (fileData.dates) {
->     created = formatDate(getDate(cfg, fileData)!, cfg.locale)
->   }
->   const { minutes, text: _timeTaken, words: _words } = readingTime(fileData.text!)
->   reading = i18n(cfg.locale).components.contentMeta.readingTime({
->     minutes: Math.ceil(minutes),
->   })
->
->   const Li = [created, reading]
->
->   return (
->     <div
->       style={{
->         position: "relative",
->         display: "flex",
->         flexDirection: "row",
->         alignItems: "flex-start",
->         height: "100%",
->         width: "100%",
->         backgroundImage: `url("https://${cfg.baseUrl}/static/og-image.jpeg")`,
->         backgroundSize: "100% 100%",
->       }}
->     >
->       <div
->         style={{
->           position: "absolute",
->           top: 0,
->           left: 0,
->           right: 0,
->           bottom: 0,
->           background: "radial-gradient(circle at center, transparent, rgba(0, 0, 0, 0.4) 70%)",
->         }}
->       />
->       <div
->         style={{
->           display: "flex",
->           height: "100%",
->           width: "100%",
->           flexDirection: "column",
->           justifyContent: "flex-start",
->           alignItems: "flex-start",
->           gap: "1.5rem",
->           paddingTop: "4rem",
->           paddingBottom: "4rem",
->           marginLeft: "4rem",
->         }}
->       >
->         <img
->           src={`"https://${cfg.baseUrl}/static/icon.jpeg"`}
->           style={{
->             position: "relative",
->             backgroundClip: "border-box",
->             borderRadius: "6rem",
->           }}
->           width={80}
->         />
->         <div
->           style={{
->             display: "flex",
->             flexDirection: "column",
->             textAlign: "left",
->             fontFamily: fonts[0].name,
->           }}
->         >
->           <h2
->             style={{
->               color: cfg.theme.colors[colorScheme].light,
->               fontSize: "3rem",
->               fontWeight: 700,
->               marginRight: "4rem",
->               fontFamily: fonts[0].name,
->             }}
->           >
->             {title}
->           </h2>
->           <ul
->             style={{
->               color: cfg.theme.colors[colorScheme].gray,
->               gap: "1rem",
->               fontSize: "1.5rem",
->               fontFamily: fonts[1].name,
->             }}
->           >
->             {Li.map((item, index) => {
->               if (item) {
->                 return <li key={index}>{item}</li>
->               }
->             })}
->           </ul>
->         </div>
->         <p
->           style={{
->             color: cfg.theme.colors[colorScheme].light,
->             fontSize: "1.5rem",
->             overflow: "hidden",
->             marginRight: "8rem",
->             textOverflow: "ellipsis",
->             display: "-webkit-box",
->             WebkitLineClamp: 7,
->             WebkitBoxOrient: "vertical",
->             lineClamp: 7,
->             fontFamily: fonts[1].name,
->           }}
->         >
->           {description}
->         </p>
->       </div>
->     </div>
->   )
-> }
-> ```
+This functionality is provided by the [[CustomOgImages]] plugin. See the plugin page for customization options.
