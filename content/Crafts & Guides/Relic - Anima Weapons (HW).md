@@ -341,7 +341,9 @@ Congratulations!
 
 ---
 Date: 01/06/2024
+
 Collected by W'eylyn Mavourneen
+
 Collected from (non exhaustively):
 - ffxiv.consolegameswiki.com
 - FFXIV Wiki on Gamerescape

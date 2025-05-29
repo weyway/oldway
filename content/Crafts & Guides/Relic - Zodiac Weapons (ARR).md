@@ -863,7 +863,9 @@ This mechanic works a lot like the [[#6 - Nexus]] step.
 
 ---
 Date: 12/05/2024
+
 Collected by: W'eylyn Mavourneen
+
 Collected from (non exhaustively):
 - FFXIV Wiki on Gamerescape
 - ffxiv.consolegameswiki.com

@@ -103,7 +103,9 @@ These can be bought from [Ermina](https://ffxiv.consolegameswiki.com/wiki/Ermina
 
 ---
 Date: 29/05/2025
+
 Collected by W'eylyn Mavourneen
+
 Collected from (non exhaustively):
 - ffxiv.consolegameswiki.com
 - FFXIV Wiki on Gamerescape
