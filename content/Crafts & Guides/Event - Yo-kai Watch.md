@@ -10,9 +10,6 @@ icon: LiPartyPopper
 title: Event - Yo-kai Watch
 ---
 # Event - Yo-kai Watch
-# Event details
-> Start date: 24 April 2024
-> End date: Release of 7.0
 
 ---
 # Where to start?

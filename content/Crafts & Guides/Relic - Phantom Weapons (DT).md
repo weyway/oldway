@@ -29,7 +29,7 @@ As such, to start the relic quests you will need to start the quests to get acce
 
 Keep in mind that the information below will be subject to updates as we progress through the tiers of weapon.
 
-For now, this information reflects what is currently out in **7.25** patch.
+For now, this information reflects what is currently out in **7.25** patch and will be continually updated as more parts release.
 
 ---
 # Quests
@@ -67,8 +67,8 @@ Only one crystal per zone is needed and it shouldn't be as bad as [[Relic - Zodi
 See below where to go for each one.
 
 #### Inside Occult Crescent
-
 ![[demiatma_BL.png]]
+
 
 #### Out in the world
 
