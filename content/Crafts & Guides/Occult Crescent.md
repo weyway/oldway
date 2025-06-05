@@ -455,7 +455,9 @@ The way this system works is very simple, as you kill mobs you will get an incre
 As the chain increase, the timer to maintain the chain going will gradually shorten, requiring you to kill faster and faster to maintain the chain going.
 
 To start a chain and to maintain it, you need to be killing mobs above your level that have the chaining icon above their name.
+
 ![[Pasted image 20250602011849.png]]
+
 
 This can be done either alone, or in a group.
 
