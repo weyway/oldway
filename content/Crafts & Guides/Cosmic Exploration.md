@@ -193,6 +193,6 @@ I've added the same macros from the spreadsheet into Teamcraft as community macr
 
 Date: 24/04/2025
 
-Collected by: W'eylyn Mavourneen
+Collected by: [W'eylyn Mavourneen](https://tomestone.gg/character/15308727/weylyn-mavourneen)
 
 Collected from: In-game support material, Square Enix Website

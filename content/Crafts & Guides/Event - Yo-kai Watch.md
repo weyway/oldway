@@ -147,7 +147,8 @@ See groupings on the table below.
 |     South Shroud      |    Whisper<br>Manjimutt<br>Hovernyan    |
 
 ---
-
 Date: 27/04/2024
-Collected by: W'eylyn Mavourneen
+
+Collected by: [W'eylyn Mavourneen](https://tomestone.gg/character/15308727/weylyn-mavourneen)
+
 Collected from: FFXIV Lodestone

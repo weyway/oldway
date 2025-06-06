@@ -864,7 +864,7 @@ This mechanic works a lot like the [[#6 - Nexus]] step.
 ---
 Date: 12/05/2024
 
-Collected by: W'eylyn Mavourneen
+Collected by: [W'eylyn Mavourneen](https://tomestone.gg/character/15308727/weylyn-mavourneen)
 
 Collected from (non exhaustively):
 - FFXIV Wiki on Gamerescape

@@ -370,8 +370,8 @@ ___
 ![[pll86-92.jpg]]
 
 ___
-```
 Date: 15/03/2025
-Collected by: W'eylyn Mavourneen
+
+Collected by: [W'eylyn Mavourneen](https://tomestone.gg/character/15308727/weylyn-mavourneen)
+
 Collected from: Final Fantasy XIV Discord - Live Letter Translations
-```

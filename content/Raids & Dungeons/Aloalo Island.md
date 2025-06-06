@@ -281,7 +281,7 @@ Completing all the paths unlocks the **Spectral Statice Whistle**.
 | Mapping the Realm: Aloalo Island |   10   | Discover every location within the Aloalo Island variant dungeon. |
 ───── ⋆⋅☆⋅⋆ ─────
 
-```
+---
 Date: 28/04/2024
-Collected by: W'eylyn Mavourneen
-```
+
+Collected by: [W'eylyn Mavourneen](https://tomestone.gg/character/15308727/weylyn-mavourneen)

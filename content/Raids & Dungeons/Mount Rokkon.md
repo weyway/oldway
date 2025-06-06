@@ -268,8 +268,8 @@ Completing all 12 paths unlocks the **Burabura Chochin Whistle**.
 | Mapping the Realm: Mount Rokkon |   10   | Discover every location within the Mount Rokkon variant dungeon. |
 ───── ⋆⋅☆⋅⋆ ─────
 
-```
+___
 Date: 28/04/2024
-Collected by: W'eylyn Mavourneen
-```
+
+Collected by: [W'eylyn Mavourneen](https://tomestone.gg/character/15308727/weylyn-mavourneen)
 

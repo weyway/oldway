@@ -342,7 +342,7 @@ Congratulations!
 ---
 Date: 01/06/2024
 
-Collected by W'eylyn Mavourneen
+Collected by: [W'eylyn Mavourneen](https://tomestone.gg/character/15308727/weylyn-mavourneen)
 
 Collected from (non exhaustively):
 - ffxiv.consolegameswiki.com

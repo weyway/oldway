@@ -30,6 +30,25 @@ If you're planning to go in with friends, make sure to group up before joining t
 
 The [[Relic - Phantom Weapons (DT)]] will be closely tied to this new area, as is now usual for previous relics (Minus the Manderville one)
 
+# Useful Resources
+
+## Discord Servers
+
+Above all, for the longevity of this type of content, it's always a good idea to join a supporting discord.
+
+You can find constantly updated information as well as like-minded people to join in doing this content in these.
+
+This is not an extensive list but these are some that you might check:
+
+### Crystal
+- [Crystalline Adventuring Forays and Expeditions](https://discord.gg/c-a-f-e)
+### Aether
+- [Aether Bozja/Baldesion Arsenal](https://discord.gg/abbaffxiv)
+### Primal
+- [The Help Lines]((https://discord.gg/thehelplines "https://discord.gg/thehelplines")
+### Dynamis
+- [Dynamis Field Operations](https://discord.gg/vjwYEeubeN)
+
 # Where to start?
 
 Before anything else, i'd like to start with this disclaimer.
@@ -113,338 +132,354 @@ Alongside the job specific actions, there are also two things:
 > Reminisces of journeys just begun and those long ended embody the freelancer's myriad supportive techniques.
 > Unlock: By default.
 >> [!summary] Support Actions
->> **Occult Resuscitation**
->> Restores 30% of maximum HP.
+>>  
+>>  - **Occult Resuscitation**
+>> 		- Restores 30% of maximum HP.
 >> 
->> **Occult Treasuresight**
->> Detects the number of treasure coffers presently on the Occult Crescent.
+>> - **Occult Treasuresight**
+>> 		- Detects the number of treasure coffers presently on the Occult Crescent.
 
 >[!note]- Knight
 >Emulate these ancient memories of a loyal, honorable knight and defend your comrades from harm.
 >Unlock: South Horn intro quests.
 >
->>[!summary] Support Actions:
->>**Phantom Guard**
->>Reduces damage taken by 60%
->>Lv 4 Trait: Improves Phantom Guard's damage reduction effect to 90%.
+>>[!summary] Support Actions
 >>
->>**Pray**
->>Gradually restores HP
->>Cure Potency: 3,000
->>Additional Effect: Grants Enduring Fortitude to self and nearby party members when executed within proximity of a knowledge crystal.
->>Enduring Fortitude Effect: Reduces target's damage taken by 10% (duration: 30m).
->>Lv 5 Trait: Increases the healing potency of Pray to 5,000.
+>>- **Phantom Guard**
+>>		- Reduces damage taken by 60%
+>>		- Lv 4 Trait: Improves Phantom Guard's damage reduction effect to 90%.
 >>
->>**Occult Heal**
->>Restores target's HP
->>Cure Potency: 30,000
+>>- **Pray**
+>>		- Gradually restores HP
+>>		- Cure Potency: 3,000
+>>		- Additional Effect: Grants Enduring Fortitude to self and nearby party members when executed within proximity of a knowledge crystal.
+>>		- Enduring Fortitude Effect: Reduces target's damage taken by 10% (duration: 30m).
+>>		- Lv 5 Trait: Increases the healing potency of Pray to 5,000.
 >>
->>**Pledge**
->>Grants 2 stacks of Pledge to self or target party member. 
->>Pledge Effect: Renders target impervious to most attacks.
+>>- **Occult Heal**
+>>		- Restores target's HP
+>>		- Cure Potency: 30,000
+>>
+>>- **Pledge**
+>>		- Grants 2 stacks of Pledge to self or target party member. 
+>>		- Pledge Effect: Renders target impervious to most attacks.
 
 >[!note]- Monk
 >These memories of a monk's unflinching discipline and quiet meditation offer a path to unparalleled combat mastery.
 >Unlock: South Horn intro quests.
 >
->>[!summary] Support Actions:
->>**Phantom Kick**
->>Leap towards your target, delivering an attack with a potency of 100 to all enemies in a straight line before you. Potency scales with item level. 
->>Additional Effect: Grants a stack of Phantom Kick up to a maximum of 3, increasing damage dealt by 5%.
->>Lv 4 Trait: Improves Phantom Kick's damage increase to 7%.
->>Lv 5 Trait: Improves Phantom Kick's damage increase to 9%.
+>>[!summary] Support Actions
 >>
->>**Occult Counter**
->>Delivers an attack with a potency of 150 to all enemies in a cone before you. 
->>Potency scales with item level. 
->>Can only be executed immediately after parrying an attack.
+>>- **Phantom Kick**
+>>		- Leap towards your target, delivering an attack with a potency of 100 to all enemies in a straight line before you. Potency scales with item level. 
+>>		- Additional Effect: Grants a stack of Phantom Kick up to a maximum of 3, increasing damage dealt by 5%.
+>>		- Lv 4 Trait: Improves Phantom Kick's damage increase to 7%.
+>>		- Lv 5 Trait: Improves Phantom Kick's damage increase to 9%.
 >>
->>**Counterstance**
->>Increases parry rate by 100%.
->>Additional Effect: Grants Fleetfooted to self and nearby party members when executed within proximity of a knowledge crystal.
->>Fleetfooted Effect: Increases movement speed for 30m.
+>>- **Occult Counter**
+>>		- Delivers an attack with a potency of 150 to all enemies in a cone before you. 
+>>		- Potency scales with item level. 
+>>		- Can only be executed immediately after parrying an attack.
 >>
->>**Occult Chakra**
->>Restores 30% of maximum HP and MP. 
->>Additional Effect: When HP is less than 30%, restores 70% of maximum HP. 
->>Additional Effect: When MP is less than 30%, restores 70% of maximum MP.
+>>- **Counterstance**
+>>		- Increases parry rate by 100%.
+>>		- Additional Effect: Grants Fleetfooted to self and nearby party members when executed within proximity of a knowledge crystal.
+>>		- Fleetfooted Effect: Increases movement speed for 30m.
+>>
+>>- **Occult Chakra**
+>>		- Restores 30% of maximum HP and MP. 
+>>		- Additional Effect: When HP is less than 30%, restores 70% of maximum HP. 
+>>		- Additional Effect: When MP is less than 30%, restores 70% of maximum MP.
 
 >[!note]- Bard
 >These memories echo with the vivid imagery of a bard's uplifting song. Utilize them to employ the very same ballads in battle.
 >Unlock: South Horn intro quests.
 >
->>[!summary] Support Actions:
->>**Offensive Aria**
->>Increases damage dealt by self and nearby party members by 1%.
->>Lv 2 Trait: Improves Offensive Aria's damage increase to 2%.
->>Lv 3 Trait: Improves Offensive Aria's damage increase to 3%.
->>Lv 4 Trait: Improves Offensive Aria's damage increase to 4%.
+>>[!summary] Support Actions
 >>
->>**Romeo's Ballad**
->>Freezes time for all nearby enemies readying an attack.
->>Additional Effect: Grants Romeo's Ballad to self and nearby party members when executed within proximity of a knowledge crystal.
->>Romeo's Ballad Effect: Increases Phantom EXP earned through battle by 10% for 30m.
+>>- **Offensive Aria**
+>>		- Increases damage dealt by self and nearby party members by 1%.
+>>		- Lv 2 Trait: Improves Offensive Aria's damage increase to 2%.
+>>		- Lv 3 Trait: Improves Offensive Aria's damage increase to 3%.
+>>		- Lv 4 Trait: Improves Offensive Aria's damage increase to 4%.
 >>
->>**Mighty March**
->>Gradually restores own HP and the HP of all nearby party members. Cure Potency: 3,000
->>Additional Effect: Increases maximum HP by 20% and restores the amount increased.
->>Lv 4 Trait: Improves Mighty March's Cure potency to 3,500.
+>>- **Romeo's Ballad**
+>>		- Freezes time for all nearby enemies readying an attack.
+>>		- Additional Effect: Grants Romeo's Ballad to self and nearby party members when executed within proximity of a knowledge crystal.
+>>		- Romeo's Ballad Effect: Increases Phantom EXP earned through battle by 10% for 30m.
 >>
->>**Hero's Rime**
->>Increases damage dealt and healing potency of self and nearby party members by 10%, while reducing damage taken by 10%. 
->>Effect cannot be stacked with Offensive Aria.
+>>- **Mighty March**
+>>		- Gradually restores own HP and the HP of all nearby party members. Cure Potency: 3,000
+>>		- Additional Effect: Increases maximum HP by 20% and restores the amount increased.
+>>		- Lv 4 Trait: Improves Mighty March's Cure potency to 3,500.
+>>
+>>- **Hero's Rime**
+>>		- Increases damage dealt and healing potency of self and nearby party members by 10%, while reducing damage taken by 10%. 
+>>		- Effect cannot be stacked with Offensive Aria.
 
 >[!note]- Time Mage
 >The memories of this former time mage reveal much about the laws of time and how to manipulate them to your advantage.
 >Unlock: Purchase from Expedition Antiquarian - 1000 Silver Pieces
 >
->>[!summary] Support Actions:
->>**Occult Slowga**
->>Afflict target and all enemies nearby it with Slow +80%.
+>>[!summary] Support Actions
 >>
->>**Occult Comet**
->>Deals unaspected damage with a potency of 500 to target and all enemies nearby it.
->>Potency scales with item level.
+>>- **Occult Slowga**
+>>		- Afflict target and all enemies nearby it with Slow +80%.
 >>
->>**Occult Mage Masher**
->>Lowers target's magic attack power by 10%.
+>>- **Occult Comet**
+>>		- Deals unaspected damage with a potency of 500 to target and all enemies nearby it.
+>>		- Potency scales with item level.
 >>
->>**Occult Dispel**
->>Removes one beneficial status from target, with some exceptions.
+>>- **Occult Mage Masher**
+>>		- Lowers target's magic attack power by 10%.
 >>
->>**Occult Quick**
->>Reduces weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay of self or target party member by 10%, and reduces cast times for spells by 10 seconds. 
->>Additional Effect: Greatly increases movement speed for 10s.
+>>- **Occult Dispel**
+>>		- Removes one beneficial status from target, with some exceptions.
+>>
+>>- **Occult Quick**
+>>		- Reduces weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay of self or target party member by 10%, and reduces cast times for spells by 10 seconds. 
+>>		- Additional Effect: Greatly increases movement speed for 10s.
 
 >[!note]- Geomancer
 >This geomancer's recollections brim with boundless understanding of nature's laws. Access them to employ weather-dependent techniques.
 >Unlock: Purchase from Expedition Antiquarian - 1600 Gold Pieces
 >
 >>[!summary] Support Actions:
->>**Battle Bell**
->>Grants Battle Bell to self or target player.
->>Battle Bell Effect: Grants a stack of Battle's Clangor upon taking damage, up to a maximum of 8
->>Battle's Clangor Effect: Increases damage dealt by 3％ for 30s.
->>Lv 5 Trait: Increases the effectiveness of Battle Bell to 5%.
 >>
->>**Weather**
->>Grants a beneficial effect to self and nearby party members based on the weather.
+>>- **Battle Bell**
+>>		- Grants Battle Bell to self or target player.
+>>		- Battle Bell Effect: Grants a stack of Battle's Clangor upon taking damage, up to a maximum of 8
+>>		- Battle's Clangor Effect: Increases damage dealt by 3％ for 30s.
+>>		- Lv 5 Trait: Increases the effectiveness of Battle Bell to 5%.
+>>
+>>- **Weather**
+>>		- Grants a beneficial effect to self and nearby party members based on the weather.
 >>>[!info]- Weather Effects
->>>**Sunbath Effect**: Restores own HP and the HP of nearby party members. Cure Potency: 50,000.
->>>**Cloudy Caress Effect**: Increases HP recovery via healing actions for self and nearby party members by 30%.
->>>**Blessed Rain Effect**: Creates a barrier around self and nearby party members that absorbs 30,000 damage.
->>>**Misty Mirage Effect**: Increases evasion for self and nearby party members by 40%.
->>>**Hasty Mirage Effect**: Increases movement speed for self and nearby party members by 20%.
->>>**Aetherial Gain Effect**: Increases damage dealt by self and nearby party members by 10%.
+>>>
+>>>	- **Sunbath Effect**: Restores own HP and the HP of nearby party members. Cure Potency: 50,000.
+>>>
+>>>	- **Cloudy Caress Effect**: Increases HP recovery via healing actions for self and nearby party members by 30%.
+>>>
+>>>	- **Blessed Rain Effect**: Creates a barrier around self and nearby party members that absorbs 30,000 damage.
+>>>
+>>>	- **Misty Mirage Effect**: Increases evasion for self and nearby party members by 40%.
+>>>
+>>>	- **Hasty Mirage Effect**: Increases movement speed for self and nearby party members by 20%.
+>>>
+>>>	- **Aetherial Gain Effect**: Increases damage dealt by self and nearby party members by 10%.
 >>
->>**Ringing Respite**
->>Grants Ringing Respite to self or target player.
->>Ringing Respite Effect: Heals self or target player when damage is taken. 
->>Cure Potency: 2.000
->>Lv 5 Trait: Increases the effectiveness of Ringing Respite to 3,000.
+>>- **Ringing Respite**
+>>		- Grants Ringing Respite to self or target player.
+>>		- Ringing Respite Effect: Heals self or target player when damage is taken. 
+>>		- Cure Potency: 2.000
+>>		- Lv 5 Trait: Increases the effectiveness of Ringing Respite to 3,000.
 >>
->>**Suspend**
->>Grants Suspend to self or target party member, becoming lighter than air and immune to certain mechanics.
+>>- **Suspend**
+>>		- Grants Suspend to self or target party member, becoming lighter than air and immune to certain mechanics.
 
 >[!note]- Ranger
 >Channel these memories of a proud, passionate ranger and learn to call forth the forces of nature in battle.
 >Unlock: Critical Engagement "The Black Regiment"
 >
->>[!summary] Support Actions:
->>**Phantom Aim**
->>Increases critical hit rate and direct hit rate by 15％, and guarantees that all attacks land.
->>Lv 3 Trait: Improves Phantom Aim's critical hit rate and direct hit rate increase to 30%, and guarantees all attacks land.
->>Lv 5 Trait: Improves Phantom Aim's critical hit rate and direct hit rate increase to 50%, and guarantees all attacks land.
+>>[!summary] Support Actions
 >>
->>**Occult Featherfoot**
->>Quickly dash 15 yalms forward.
+>>- **Phantom Aim**
+>>		- Increases critical hit rate and direct hit rate by 15％, and guarantees that all attacks land.
+>>		- Lv 3 Trait: Improves Phantom Aim's critical hit rate and direct hit rate increase to 30%, and guarantees all attacks land.
+>>		- Lv 5 Trait: Improves Phantom Aim's critical hit rate and direct hit rate increase to 50%, and guarantees all attacks land.
 >>
->>**Occult Falcon**
->>Delivers an attack with a potency of 10 to all enemies at the designated area. 
->>Potency scales with item level.
->>Additional Effect: Stun
->>Additional Effect: Triggers traps at the designated area.
+>>- **Occult Featherfoot**
+>>		- Quickly dash 15 yalms forward.
 >>
->>**Occult Unicorn**
->>Creates a barrier around self and all party members near you that absorbs 40,000 damage.
+>>- **Occult Falcon**
+>>		- Delivers an attack with a potency of 10 to all enemies at the designated area. 
+>>		- Potency scales with item level.
+>>		- Additional Effect: Stun
+>>		- Additional Effect: Triggers traps at the designated area.
+>>
+>>- **Occult Unicorn**
+>>		- Creates a barrier around self and all party members near you that absorbs 40,000 damage.
 
 >[!note]- Berserker
 >Savagery and unfailing courage characterize the recollections of this former berserker. These techniques entail great risk and even greater reward.
 >Unlock: Critical Engagement "The Unbridled"
 >
->>[!summary] Support Actions:
->>**Rage**
->>Become enraged, delivering an attack with a potency of 150 to all enemies in a cone before you. 
->>Potency scales with item level.
->>Immune to certain status effects, as well as most knockback and draw-in effects.
->>Lv 3 Trait: Grants the effect of Pent-up Rage, increasing the potency of Deadly Blow based on the amount of damage you have taken while the effect is active. Duration: 15s
+>>[!summary] Support Actions
 >>
->>**Deadly Blow**
->>Delivers an attack with a potency of 200.
->>Potency scales with item level.
->>Additional Effect: Potency increases by up to 250 as your HP decreases.
->>Additional Effect: Increases potency up to 2,000 based on the amount of damage taken while under the effect of Pent-up Rage.
+>>- **Rage**
+>>		- Become enraged, delivering an attack with a potency of 150 to all enemies in a cone before you. 
+>>		- Potency scales with item level.
+>>		- Immune to certain status effects, as well as most knockback and draw-in effects.
+>>		- Lv 3 Trait: Grants the effect of Pent-up Rage, increasing the potency of Deadly Blow based on the amount of damage you have taken while the effect is active. Duration: 15s
+>>
+>>- **Deadly Blow**
+>>		- Delivers an attack with a potency of 200.
+>>		- Potency scales with item level.
+>>		- Additional Effect: Potency increases by up to 250 as your HP decreases.
+>>		- Additional Effect: Increases potency up to 2,000 based on the amount of damage taken while under the effect of Pent-up Rage.
 
 >[!note]- Chemist
 >This chemist's memories offer knowledge of ancient medicinal theory, including restorative techniques sure to turn the tide of battle in your favor.
 >Unlock: Purchase from Expedition Antiquarian - 1000 Silver Pieces.
 >
->>[!summary] Support Actions:
->>**Occult Potion**
->>Consume an Occult Potion to completely restore HP of self or target.
->>Can only be executed while you possess an Occult Potion.
+>>[!summary] Support Action
 >>
->>**Occult Ether**
->>Consume an Occult Potion to completely restore MP of self or target.
->>Can only be executed while you possess an Occult Potion.
+>>- **Occult Potion**
+>>		- Consume an Occult Potion to completely restore HP of self or target.
+>>		- Can only be executed while you possess an Occult Potion.
 >>
->>**Revive**
->>Resurrects target to a weakened state.
->>Can also be cast on targets with Resurrection Restriction.
+>>- **Occult Ether**
+>>		- Consume an Occult Potion to completely restore MP of self or target.
+>>		- Can only be executed while you possess an Occult Potion.
 >>
->>**Occult Elixir**
->>Consume an Occult Elixir to completely restore HP and MP of self and nearby party members.
->>Can only be executed while you possess an Occult Elixir.
+>>- **Revive**
+>>		- Resurrects target to a weakened state.
+>>		- Can also be cast on targets with Resurrection Restriction.
+>>
+>>- **Occult Elixir**
+>>		- Consume an Occult Elixir to completely restore HP and MP of self and nearby party members.
+>>		- Can only be executed while you possess an Occult Elixir.
 
 >[!note]- Cannoneer
 >A mastery of ballistics both scholarly and practical infuse this cannoneer's recollections. Emulate them to bombard foes with powerful projectiles.
 >Unlock: Purchase from Expedition Antiquarian - 1000 Silver Pieces.
 >
->>[!summary] Support Actions:
->>**Phantom Fire**
->>Deals unaspected damage with a potency of 210 to target and all enemies nearby it.
->>Potency scales with item level.
->>Lv 5 Trait: Grants a 5% chance to instantly kill targets when executing Phantom Fire, with some exceptions.
+>>[!summary] Support Actions
 >>
->>**Holy Cannon**
->>Deals unaspected damage with a potency of 210 to target and all enemies nearby it.
->>Potency increases to 500 when used against undead enemies.
->>Potency scales with item level.
+>>- **Phantom Fire**
+>>		- Deals unaspected damage with a potency of 210 to target and all enemies nearby it.
+>>		- Potency scales with item level.
+>>		- Lv 5 Trait: Grants a 5% chance to instantly kill targets when executing Phantom Fire, with some exceptions.
 >>
->>**Dark Cannon**
->>Deals unaspected damage with a potency of 210 to target and all enemies nearby it.
->>Potency scales with item level.
->>Additional Effect: Blind
+>>- **Holy Cannon**
+>>		- Deals unaspected damage with a potency of 210 to target and all enemies nearby it.
+>>		- Potency increases to 500 when used against undead enemies.
+>>		- Potency scales with item level.
 >>
->>**Shock Cannon**
->>Deals lightning damage with a potency of 210 to target and all enemies nearby it.
->>Potency scales with item level.
->>Additional Effect: Paralysis
->>Shares a recast timer with Dark Cannon.
+>>- **Dark Cannon**
+>>		- Deals unaspected damage with a potency of 210 to target and all enemies nearby it.
+>>		- Potency scales with item level.
+>>		- Additional Effect: Blind
 >>
->>**Silver Cannon**
->>Deals unaspected damage with a potency of 210 to target and all enemies nearby it.
->>Potency scales with item level.
->>Additional Effect: Afflicts target with Silver Sickness, reducing damage target deals by 10% and increasing damage taken by 5%.
->>Shares a recast timer with Holy Cannon.
+>>- **Shock Cannon**
+>>		- Deals lightning damage with a potency of 210 to target and all enemies nearby it.
+>>		- Potency scales with item level.
+>>		- Additional Effect: Paralysis
+>>		- Shares a recast timer with Dark Cannon.
+>>
+>>- **Silver Cannon**
+>>		- Deals unaspected damage with a potency of 210 to target and all enemies nearby it.
+>>		- Potency scales with item level.
+>>		- Additional Effect: Afflicts target with Silver Sickness, reducing damage target deals by 10% and increasing damage taken by 5%.
+>>		- Shares a recast timer with Holy Cannon.
 
 >[!note]- Samurai
 >Rigorous training and a strict code of chivalry personify these recollections of an ancient samurai. Access them to fell foes in a single deadly strike.
 >Unlock: Purchase from Expedition Antiquarian - 1600 Gold Pieces.
 >
->>[!summary] Support Actions:
->>**Mineuchi**
->>Stuns target.
+>>[!summary] Support Actions
 >>
->>**Shirahadori**
->>Renders you impervious to physical damage for one attack.
+>>- **Mineuchi**
+>>		- Stuns target.
 >>
->>**Iainuki**
->>Delivers an attack with a potency of 300 to all enemies in a cone before you.
->>Potency scales with item level.
->>Additional Effect: 5% chance to kill target instantly, with some exceptions.
->>Lv 5 Trait: Increases the potency of Iainuki to 500, and increases chance to instantly kill target to 10%.
+>>- **Shirahadori**
+>>		- Renders you impervious to physical damage for one attack.
 >>
->>**Zeninage**
->>Consume an Occult Coffer to deliver a guaranteed strike with a potency of 1,500.
->>Potency scales with item level.
->>Can only be executed while you possess an Occult Coffer.
+>>- **Iainuki**
+>>		- Delivers an attack with a potency of 300 to all enemies in a cone before you.
+>>		- Potency scales with item level.
+>>		- Additional Effect: 5% chance to kill target instantly, with some exceptions.
+>>		- Lv 5 Trait: Increases the potency of Iainuki to 500, and increases chance to instantly kill target to 10%.
+>>
+>>- **Zeninage**
+>>		- Consume an Occult Coffer to deliver a guaranteed strike with a potency of 1,500.
+>>		- Potency scales with item level.
+>>		- Can only be executed while you possess an Occult Coffer.
 
 >[!note]- Thief
 >These recollections of a dextrous, principled thief grant access to survival techniques that will doubtless prove useful upon the isle.
 >Unlock: Purchase from Expedition Antiquarian - 1600 Gold Pieces.
 >
->>[!summary] Support Actions:
->>**Occult Sprint**
->>Greatly increases movement speed.
+>>[!summary] Support Actions
 >>
->>**Steal**
->>Increases the chance of additional items being dropped by target if Steal is dealt before, or as, the finishing blow.
+>>- **Occult Sprint**
+>>		- Greatly increases movement speed.
 >>
->>**Vigilance**
->>Grants Vigilance.
->>Effect changes to Foreseen Offense when entering combat.
->>Foreseen Offense Effect: Increases critical hit rate by 60% for 20s.
->>Cannot be executed while in combat.
+>>- **Steal**
+>>		- Increases the chance of additional items being dropped by target if Steal is dealt before, or as, the finishing blow.
 >>
->>**Trap Detection**
->>Reveals all traps and secret passages within a 15-yalm radius.
+>>- **Vigilance**
+>>		- Grants Vigilance.
+>>		- Effect changes to Foreseen Offense when entering combat.
+>>		- Foreseen Offense Effect: Increases critical hit rate by 60% for 20s.
+>>		- Cannot be executed while in combat.
+>>
+>>- **Trap Detection**
+>>		- Reveals all traps and secret passages within a 15-yalm radius.
 >>Can only be executed when inside a dungeon.
 >>
->>**Pilfer Weapon**
->>Lowers target's physical attack power by 10%.
+>>- **Pilfer Weapon**
+>>		- Lowers target's physical attack power by 10%.
 >>
->>**Lockpicker**
->>Allows you to open locked doors in dungeons.
+>>- **Lockpicker**
+>>		- Allows you to open locked doors in dungeons.
 
 >[!note]- Oracle
 >Endowed with an oracle's supernatural senses and prophetic insights, these memories promise mastery over a wealth of supportive skills.
 >Unlock: Critical Engagement "On The Hunt"
 >
->>[!summary] Support Actions:
->>**Predict**
->>Grants Prediction of Judgment, Prediction of Cleansing, Prediction of Blessing, or Prediction of Starfall, allowing the execution of an action depending on the prophecy granted.
->>Phantom Judgment Action Effect: Deals unaspected damage to nearby enemies while healing self and nearby party members.
->>Cleansing Action Effect: Deals unaspected damage to nearby enemies and freezes time.
->>Blessing Action Effect: Heals self and nearby party members, as well as granting Regen.
->>Starfall Action Effect: Deals unaspected damage to self and nearby enemies.
->>When the effect of a prediction expires, a new prophecy is granted. If all predictions expire without a commensurate action being used, the prophecy changes to False Prediction, causing damage over time to self with a potency of 50,000.
+>>[!summary] Support Actions
+>>
+>>- **Predict**
+>>		- Grants Prediction of Judgment, Prediction of Cleansing, Prediction of Blessing, or Prediction of Starfall, allowing the execution of an action depending on the prophecy granted.
+>>		 - When the effect of a prediction expires, a new prophecy is granted. If all predictions expire without a commensurate action being used, the prophecy changes to False Prediction, causing damage over time to self with a potency of 50,000.	
 >>
 >>>[!info]- Predict Actions
->>>**Phantom Judgment**
->>>Deals unaspected damage with a potency of 400 to all nearby enemies.
->>>Potency scales with item level.
->>>Additional Effect: Restores own HP and the HP of all nearby party members.
->>>Cure Potency: 40,000
+>>>- **Phantom Judgment**
+>>>		- Deals unaspected damage with a potency of 400 to all nearby enemies.
+>>>		- Potency scales with item level.
+>>>		- Additional Effect: Restores own HP and the HP of all nearby party members.
+>>>		- Cure Potency: 40,000
 >>>
->>>**Cleansing**
->>>Deals unaspected damage with a potency of 500 to all nearby enemies.
->>>Potency scales with item level.
->>>Additional Effect: Freezes time for nearby enemies readying an attack.
+>>>- **Cleansing**
+>>>		- Deals unaspected damage with a potency of 500 to all nearby enemies.
+>>>		- Potency scales with item level.
+>>>		- Additional Effect: Freezes time for nearby enemies readying an attack.
 >>>
->>>**Blessing**
->>>Restores own HP and the HP of all nearby party members.
->>>Cure Potency: 70,000
->>>Additional Effect: Regen
->>>Cure Potency: 3,000
->>>Duration: 15s
+>>>- **Blessing**
+>>>		-Restores own HP and the HP of all nearby party members.
+>>>		- Cure Potency: 70,000
+>>>		- Additional Effect: Regen
+>>>		- Cure Potency: 3,000
+>>>		- Duration: 15s
 >>>
->>>**Starfall**
->>>Deals unaspected damage to self totaling up to 90% of maximum HP, and to all nearby enemies with a potency of 1,000.
->>>Potency against enemies increases according to your item level.
+>>>- **Starfall**
+>>>		- Deals unaspected damage to self totaling up to 90% of maximum HP, and to all nearby enemies with a potency of 1,000.
+>>>		- Potency against enemies increases according to your item level.
 >>
->>**Recuperation**
->>Grants Recuperation to self or target party member.
->>When effect expires, removes a single detrimental effect from target and all nearby party members.
->>Recuperation changes to Fortified Recuperation if effect is not triggered.
->>Fortified Recuperation Effect: Removes a detrimental effect from target and nearby party members if afflicted with a detrimental effect.
->>Duration: 3s
->>Shares a recast timer with Phantom Doom.
+>>  
+>>- **Recuperation**
+>>		- Grants Recuperation to self or target party member.
+>>		- When effect expires, removes a single detrimental effect from target and all nearby party members.
+>>		- Recuperation changes to Fortified Recuperation if effect is not triggered.
+>>		- Fortified Recuperation Effect: Removes a detrimental effect from target and nearby party members if afflicted with a detrimental effect.
+>>		- Duration: 3s
+>>		- Shares a recast timer with Phantom Doom.
 >>
->>**Phantom Doom**
->>Chance to afflict target with Phantom Doom.
->>Target is incapacitated when effect expires.
->>Shares a recast timer with Recuperation.
->>Has no effect on targets outside of combat.
->>Effect ends upon target leaving combat
+>>- **Phantom Doom**
+>>		- Chance to afflict target with Phantom Doom.
+>>		- Target is incapacitated when effect expires.
+>>		- Shares a recast timer with Recuperation.
+>>		- Has no effect on targets outside of combat.
+>>		- Effect ends upon target leaving combat
 >>
->>**Phantom Rejuvenation**
->>Grants Phantom Rejuvenation to self or target party member.
->>Phantom Rejuvenation Effect: Restores HP of target and nearby party members within 30 yalms when effect expires.
->>Cure Potency: 90,000
+>>- **Phantom Rejuvenation**
+>>		- Grants Phantom Rejuvenation to self or target party member.
+>>		- Phantom Rejuvenation Effect: Restores HP of target and nearby party members within 30 yalms when effect expires.
+>>		- Cure Potency: 90,000
 >>
->>**Invulnerability**
->>Prevents attacks from reducing a target party member's HP to less than 1.
+>>- **Invulnerability**
+>>		- Prevents attacks from reducing a target party member's HP to less than 1.
 
 ## Kill Chaining
 
@@ -750,13 +785,15 @@ Here you can find all the maps for each different thing.
 
 ---
 
-Date: 24/04/2025
+Date: 06/06/2025
 
-Collected by: W'eylyn Mavourneen
+Collected by: [W'eylyn Mavourneen](https://tomestone.gg/character/15308727/weylyn-mavourneen)
 
-Collected from: 
-- In-game support material,
+With support by the lovely members of **Beyond Love**: [Yuuki Furu](https://tomestone.gg/character/21476996/yuuki-furu) & [Sol Valeira](https://tomestone.gg/character/48051726/sol-valeira)
+
+Collected from (non exhaustively): 
+- In-game support material
 - Square Enix Website
 - ffxiv.consolegameswiki.com
 - Polygon FFXIV Guides
-- 
+- CAFE Discord
