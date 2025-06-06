@@ -40,7 +40,7 @@ You can find constantly updated information as well as like-minded people to joi
 
 This is not an extensive list but these are some that you might check:
 
->[!info]  Crystal
+>[!info]- Crystal
 > - [Crystalline Adventuring Forays and Expeditions](https://discord.gg/c-a-f-e)
 
 >[!info]- Aether
