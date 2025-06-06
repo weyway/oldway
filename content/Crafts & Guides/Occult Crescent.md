@@ -45,7 +45,7 @@ This is not an extensive list but these are some that you might check:
 ### Aether
 - [Aether Bozja/Baldesion Arsenal](https://discord.gg/abbaffxiv)
 ### Primal
-- [The Help Lines]((https://discord.gg/thehelplines "https://discord.gg/thehelplines")
+- [The Help Lines](https://discord.gg/thehelplines)
 ### Dynamis
 - [Dynamis Field Operations](https://discord.gg/vjwYEeubeN)
 
