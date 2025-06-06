@@ -40,14 +40,17 @@ You can find constantly updated information as well as like-minded people to joi
 
 This is not an extensive list but these are some that you might check:
 
-### Crystal
-- [Crystalline Adventuring Forays and Expeditions](https://discord.gg/c-a-f-e)
-### Aether
-- [Aether Bozja/Baldesion Arsenal](https://discord.gg/abbaffxiv)
-### Primal
-- [The Help Lines](https://discord.gg/thehelplines)
-### Dynamis
-- [Dynamis Field Operations](https://discord.gg/vjwYEeubeN)
+>[!example]- Crystal
+> - [Crystalline Adventuring Forays and Expeditions](https://discord.gg/c-a-f-e)
+
+>[!example]- Aether
+>- [Aether Bozja/Baldesion Arsenal](https://discord.gg/abbaffxiv)
+
+>[!example]- Primal
+>- [The Help Lines](https://discord.gg/thehelplines)
+
+>[!example]- Dynamis
+>- [Dynamis Field Operations](https://discord.gg/vjwYEeubeN)
 
 # Where to start?
 
